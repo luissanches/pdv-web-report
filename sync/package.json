@@ -1,0 +1,19 @@
+{
+  "name": "pdvsync",
+  "version": "1.0.0",
+  "description": "sincronizador ",
+  "main": "app.js",
+  "dependencies": {
+    "knex": "^0.13.0",
+    "log4js": "^1.1.0",
+    "moment": "^2.18.1",
+    "pg": "^6.2.2",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luissanches",
+  "license": "ISC"
+}
