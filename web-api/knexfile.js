@@ -4,8 +4,8 @@ module.exports = {
         connection: {
             host: '127.0.0.1',
             database: 'pdvreports',
-            user: 'psf-user',
-            password: 'ornit0quatro'
+            user: 'admin',
+            password: 'admin'
         },
         pool: {
             min: 2,
@@ -21,10 +21,10 @@ module.exports = {
     production: {
         client: 'postgresql',
         connection: {
-            host: '45.76.157.69',
+            host: '1.1.1.1',
             database: 'pdvreports',
             user: 'admin',
-            password: '286692'
+            password: 'admin'
         },
         pool: {
             min: 2,

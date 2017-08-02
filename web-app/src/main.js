@@ -17,7 +17,7 @@ Vue.use(Quasar)
 Vue.use(VueResource)
 Vue.use(Vuex)
 
-Vue.http.options.root = 'http://45.76.157.69:3000/'
+Vue.http.options.root = 'http://1.1.1.1:1000/'
 
 Quasar.start(() => {
   new Vue({
