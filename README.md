@@ -71,39 +71,33 @@ $ node app.js //necessário configurar arquivo /persistence/database.js (informa
 
 ## Prints
 
-- 
-- 
-- 
-- 
-- 
-
 #### Login: 
 ![](https://github.com/luissanches/pdv-web-report/blob/master/misc/printscreen/login.png)
 =============
 
 
 #### Relatório de Vendas do Período: 
-![](https://github.com/luissanches/pdv-sat/blob/master/misc/printscreen/total_venda.png)
+![](https://github.com/luissanches/pdv-web-report/blob/master/misc/printscreen/total_venda.png)
 =============
 
 
 #### Relatório de Recebimentos do Período: 
-![](https://github.com/luissanches/pdv-sat/blob/master/misc/printscreen/total_a_receber.png)
+![](https://github.com/luissanches/pdv-web-report/blob/master/misc/printscreen/total_a_receber.png)
 =============
 
 
 #### Relatório de Recebimentos Detalhados do Período: 
-![](https://github.com/luissanches/pdv-sat/blob/master/misc/printscreen/detalhe_recebimento.png)
+![](https://github.com/luissanches/pdv-web-report/blob/master/misc/printscreen/detalhe_recebimento.png)
 =============
 
 
 #### Relatório de Vendas por Categoria do Período: 
-![](https://github.com/luissanches/pdv-sat/blob/master/misc/printscreen/vendas_por_categoria.png)
+![](https://github.com/luissanches/pdv-web-report/blob/master/misc/printscreen/vendas_por_categoria.png)
 =============
 
 
 #### Relatório de Vendas por Produto do Período: 
-![](https://github.com/luissanches/pdv-sat/blob/master/misc/printscreen/venda_por_produto.png)
+![](https://github.com/luissanches/pdv-web-report/blob/master/misc/printscreen/venda_por_produto.png)
 =============
 
 
