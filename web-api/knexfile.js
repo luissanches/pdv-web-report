@@ -3,9 +3,9 @@ module.exports = {
         client: 'postgresql',
         connection: {
             host: '127.0.0.1',
-            database: 'pdvreports',
+            database: 'bolaria',
             user: 'admin',
-            password: 'admin'
+            password: '286692'
         },
         pool: {
             min: 2,
