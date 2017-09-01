@@ -1,6 +1,6 @@
 const knexPg = require('knex')({
   client: "pg",
-  connection: 'postgres://admin:286692@45.76.157.69:5432/pdvreports',
+  connection: 'postgres://admin:286692@45.77.45.116:5432/bolaria',
   pool: {
     min: 2,
     max: 10
@@ -11,7 +11,7 @@ const knexPg = require('knex')({
 var knexSqlite = require('knex')({
   client: 'sqlite3',
   connection: {
-    filename: '/home/projects/bolaria/Pdv/Misc/db.sl3'
+    filename: '/root/pdv/publish/misc/db.sl3'
   }
 });
 
